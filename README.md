@@ -1,16 +1,57 @@
-## Hi there 👋
+## Hola! 👋
 
-<!--
-**gagabriela2787/gagabriela2787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+LENGUAJES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python  
+- SQL
+- Java
+- JavaScript
+- HTML
+
+Frameworks & LibrERIAS
+
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Statsmodels
+- Scrapy
+- BeautifulSoap
+- Selenium
+- Django
+- Flask
+
+IDE
+
+- Visual Studio Code  
+- MySQL Workbench
+- Google Colaboratory
+
+MetODOLOGIAS
+
+- Agile  
+- Scrum 
+
+Herramientas para Gestión y Visualización de Datos
+
+- Google Sheets  
+- Google Looker Studio  
+- Excel  
+- Power BI
+
+Control DE VERSIONES
+
+- Git  
+- GitHub 
+
+Habilidades en Ciencia de Datos y Big Data
+
+- Análisis estadístico de datos (estadística descriptiva)  
+- Recopilación de datos 
+- Creación y consultas en bases de datos (SQL)  
+- Limpieza y preparación de datos  
+- Visualización de datos con Python y herramientas de BI  
+- Creación de dashboards para informes
