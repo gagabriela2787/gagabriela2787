@@ -1,3 +1,8 @@
+
+![fondoolinkedIN](https://github.com/user-attachments/assets/6e0f9454-d0f1-469d-9b85-d657b389cf10)
+
+
+
 ## Hola! 👋
 
 
